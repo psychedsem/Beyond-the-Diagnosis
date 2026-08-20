@@ -10,7 +10,7 @@ Beyond the Diagnosis explores how Machine Learning can be used to analyze clinic
 
 Using the Diabetes dataset from scikit-learn, the project develops an interpretable regression workflow that moves from exploratory data analysis to model validation, regularization, and clinical feature interpretation.
 
-Rather than focusing exclusively on maximizing predictive performance, the project emphasizes methodological robustness and interpretability — particularly relevant in healthcare, where understanding how a model reaches its predictions can be as important as the predictions themselves.
+Rather than focusing exclusively on maximizing predictive performance, the project emphasizes methodological robustness and interpretability, particularly relevant in healthcare, where understanding how a model reaches its predictions can be as important as the predictions themselves.
 
 ### Machine Learning Workflow
 
@@ -59,7 +59,7 @@ Beyond the Diagnosis esplora come il Machine Learning possa essere utilizzato pe
 
 Utilizzando il Diabetes dataset di scikit-learn, il progetto sviluppa un workflow di regressione interpretabile che parte dall'analisi esplorativa dei dati e arriva alla validazione del modello, alla regolarizzazione e all'interpretazione delle variabili cliniche.
 
-Più che concentrarsi esclusivamente sulla massimizzazione delle performance predittive, il progetto pone particolare attenzione alla robustezza metodologica e all'interpretabilità — aspetti particolarmente rilevanti in ambito sanitario.
+Più che concentrarsi esclusivamente sulla massimizzazione delle performance predittive, il progetto pone particolare attenzione alla robustezza metodologica e all'interpretabilità, aspetti particolarmente rilevanti in ambito sanitario.
 
 ### Workflow di Machine Learning
 
