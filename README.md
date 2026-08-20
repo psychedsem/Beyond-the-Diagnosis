@@ -30,7 +30,8 @@ The analysis highlights body mass index and triglyceride-related measurements am
 
 ### Presentation
 
-> 🇬🇧 [View the Presentation in English](Beyond%20the%20Diagnosis%20(ENG).pdf)  
+> 🇬🇧 [View the Presentation in English](Beyond%20the%20Diagnosis%20(ENG).pdf)
+> 
 > 🇮🇹 [View the Presentation in Italian](Beyond%20the%20Diagnosis%20(ITA).pdf)
 
 ### Notebook
@@ -79,7 +80,8 @@ L'analisi evidenzia l'indice di massa corporea e le misurazioni legate ai trigli
 
 ### Presentazione
 
-> 🇬🇧 [Visualizza la presentazione in Inglese](Beyond%20the%20Diagnosis%20(ENG).pdf)  
+> 🇬🇧 [Visualizza la presentazione in Inglese](Beyond%20the%20Diagnosis%20(ENG).pdf)
+> 
 > 🇮🇹 [Visualizza la presentazione in Italiano](Beyond%20the%20Diagnosis%20(ITA).pdf)
 
 ### Notebook
